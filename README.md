@@ -42,3 +42,12 @@ El propósito de compartir este repositorio en GitHub es con fines educativos y 
 Si tienes interés en colaborar o utilizar parte del código para tus proyectos personales, por favor contáctame para obtener el permiso correspondiente.
 
 ¡Gracias por tu comprensión y apoyo!
+
+## Miembros
+
+ijmgithub@gmail.com
+ivan.jaraiz@gmail.com
+
+## GitLab
+
+[Visita el repositorio de GitLab](https://gitlab.com/ijmGitlab)
