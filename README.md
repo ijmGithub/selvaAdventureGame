@@ -33,8 +33,6 @@ Si te apasionan los juegos y la programación en Python, ¡únete a nosotros y c
 
 ## Licencia
 
-## Licencia
-
 Proyecto personal - Todos los derechos reservados.
 
 Este es un proyecto personal y no se proporciona ninguna licencia explícita para su uso, distribución o modificación. Todos los derechos sobre el código, diseño y contenido del proyecto están reservados por el autor.
